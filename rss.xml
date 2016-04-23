@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[3DKreator USA]]></title>
         <description><![CDATA[3DKreator USA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/3dkreatorusa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 13:24:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 13:27:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/3dkreatorusa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/555d9457-f581-4c1c-b9d7-1318ad2d4fb5.jpg">]]></description>
-            <link>undefinedthe-3dkreator-has-landed-in-the-usa-start-unleashing-your-3/index.html</link>
+            <link>https://thegrid.ai/3dkreatorusa/the-3dkreator-has-landed-in-the-usa-start-unleashing-your-3/index.html</link>
             <guid isPermaLink="false">4ba61ff7-a24f-47d3-84c9-7b074bec5e61</guid>
-            <pubDate>Sat, 23 Apr 2016 13:23:16 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2016 13:27:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
