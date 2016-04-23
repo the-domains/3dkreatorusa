@@ -1,7 +1,7 @@
 name: 3DKreatorUSA
 favicon: null
 layout_spectrum: 0.25301
-typography_spectrum: 0.22889
+typography_spectrum: 0.4992
 title: 3DKreator USA
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#017dc5'
     - '#797880'
     - '#a8b7d6'
-  brandStrength: 0.75
+  brandStrength: 0.875
   lightness: 0.6875
   saturation: 0.625
   rhythmicContrast: 0.75
