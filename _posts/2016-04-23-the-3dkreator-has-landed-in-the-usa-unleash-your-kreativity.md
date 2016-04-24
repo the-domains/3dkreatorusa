@@ -6,8 +6,8 @@ isBasedOnUrl: www.3dkreatorusa.com
 inLanguage: null
 keywords: []
 description: 'The 3DKreator has landed in the USA. Unleash your Kreativity today!'
-datePublished: '2016-04-24T15:17:20.847Z'
-dateModified: '2016-04-24T15:16:49.849Z'
+datePublished: '2016-04-24T15:19:29.390Z'
+dateModified: '2016-04-24T15:18:46.922Z'
 title: 3DKreator
 author:
   - name: ''
