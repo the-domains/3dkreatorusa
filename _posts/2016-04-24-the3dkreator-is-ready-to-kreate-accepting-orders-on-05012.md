@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The 3DKreator is ready to Kreate! Accepting Orders on 05/01/2016'
-datePublished: '2016-04-24T15:24:31.410Z'
-dateModified: '2016-04-24T15:23:07.234Z'
+datePublished: '2016-04-24T15:40:42.392Z'
+dateModified: '2016-04-24T15:24:38.855Z'
 title: ''
 author:
   - name: ''
