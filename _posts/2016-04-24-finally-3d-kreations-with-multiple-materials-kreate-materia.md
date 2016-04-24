@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Kreate Material Motion with multiple materials!'
-datePublished: '2016-04-24T15:22:18.972Z'
-dateModified: '2016-04-24T15:21:40.008Z'
+datePublished: '2016-04-24T15:24:48.965Z'
+dateModified: '2016-04-24T15:22:47.029Z'
 title: ''
 author:
   - name: ''
