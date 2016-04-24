@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: www.3dkreatorusa.com
 inLanguage: null
 keywords: []
 description: 'The 3DKreator has landed in the USA. Unleash your Kreativity today!'
-datePublished: '2016-04-24T15:31:36.033Z'
-dateModified: '2016-04-24T15:31:16.824Z'
+datePublished: '2016-04-24T15:33:50.641Z'
+dateModified: '2016-04-24T15:33:04.632Z'
 title: 3DKreator
 author:
   - name: ''
@@ -21,7 +20,8 @@ publisher:
   url: null
   favicon: null
 starred: true
-_type: MediaObject
+url: 3dkreator/index.html
+_type: Article
 
 ---
 The 3DKreator has landed in the USA. Unleash your Kreativity today!
