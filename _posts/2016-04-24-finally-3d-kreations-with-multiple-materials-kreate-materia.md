@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Kreate Material Motion with multiple materials!'
-datePublished: '2016-04-24T15:12:16.231Z'
-dateModified: '2016-04-24T15:10:27.578Z'
+datePublished: '2016-04-24T15:15:57.628Z'
+dateModified: '2016-04-24T15:12:22.382Z'
 title: ''
 author:
   - name: ''
