@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The 3DKreator has landed in the USA. Unleash your Kreativity today!'
-datePublished: '2016-04-24T14:32:39.449Z'
-dateModified: '2016-04-24T14:32:34.949Z'
+datePublished: '2016-04-24T14:34:14.978Z'
+dateModified: '2016-04-24T14:34:08.147Z'
 title: 3DKreator
 author:
   - name: ''
