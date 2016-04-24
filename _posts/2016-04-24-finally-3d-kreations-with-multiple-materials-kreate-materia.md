@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Finally 3D Kreations with multiple materials. Kreate Material Motion!'
-datePublished: '2016-04-24T14:55:23.125Z'
-dateModified: '2016-04-24T14:55:01.889Z'
+datePublished: '2016-04-24T15:00:29.821Z'
+dateModified: '2016-04-24T14:57:21.939Z'
 title: ''
 author: []
 authors: []
@@ -15,9 +15,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-04-24-finally-3d-kreations-with-multiple-materials-kreate-materia.md
 published: true
+starred: false
 url: finally-3d-kreations-with-multiple-materials-kreate-materia/index.html
 _type: Article
 
