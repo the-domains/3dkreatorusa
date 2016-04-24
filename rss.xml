@@ -4,7 +4,7 @@
         <description><![CDATA[3DKreatorUSA]]></description>
         <link>https://thegrid.ai/3dkreatorusa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 15:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 15:15:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dkreatorusa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Sun, 24 Apr 2016 14:51:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a77a9bfb0b25959c03b7afcca7b90beee5725d54.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/3dkreatorusa/finally-3d-kreations-with-multiple-materials-kreate-materia/index.html</link>
+            <guid isPermaLink="false">a3817302-4db4-4e81-86cd-464bac15357d</guid>
+            <pubDate>Sun, 24 Apr 2016 15:15:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[3DKreator]]></title>
             <description><![CDATA[<article><h1>3DKreator</h1><p>The 3DKreator has landed in the USA. Unleash your Kreativity today!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bbe39fa-cb91-43ad-8382-9644ce64340b.jpg"></article>]]></description>
             <link>https://thegrid.ai/3dkreatorusa/the-3dkreator-has-landed-in-the-usa-unleash-your-kreativity/index.html</link>
             <guid isPermaLink="false">06fad609-8d08-47ba-845a-3f9da1c4e443</guid>
             <pubDate>Sun, 24 Apr 2016 15:14:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a77a9bfb0b25959c03b7afcca7b90beee5725d54.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/3dkreatorusa/finally-3d-kreations-with-multiple-materials-kreate-materia/index.html</link>
-            <guid isPermaLink="false">a3817302-4db4-4e81-86cd-464bac15357d</guid>
-            <pubDate>Sun, 24 Apr 2016 15:12:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
