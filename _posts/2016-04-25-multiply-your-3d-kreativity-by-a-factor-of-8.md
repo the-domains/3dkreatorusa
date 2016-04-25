@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Multiply your 3D Kreativity by a factor of 8!'
-datePublished: '2016-04-25T16:53:57.580Z'
-dateModified: '2016-04-25T15:40:00.316Z'
+datePublished: '2016-04-25T17:57:49.255Z'
+dateModified: '2016-04-25T17:57:26.560Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-multiply-your-3d-kreativity-by-a-factor-of-8.md
