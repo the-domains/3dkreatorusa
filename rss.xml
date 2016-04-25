@@ -4,7 +4,7 @@
         <description><![CDATA[3DKreatorUSA]]></description>
         <link>https://thegrid.ai/3dkreatorusa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 15:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 15:28:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dkreatorusa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[3DKreator]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/3dkreatorusa/3dkreator/index.html</link>
             <guid isPermaLink="false">06fad609-8d08-47ba-845a-3f9da1c4e443</guid>
             <pubDate>Mon, 25 Apr 2016 14:11:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3DKreator, "The Video!"]]></title>
+            <description><![CDATA[<p>https://youtu.be/-6rCf6DM2j8</p>]]></description>
+            <link>https://www.youtube.com/watch?v=-6rCf6DM2j8</link>
+            <guid isPermaLink="false">0f52aa9a-95a1-4dd7-a185-de7c11126f9e</guid>
+            <pubDate>Mon, 25 Apr 2016 15:26:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
