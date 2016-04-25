@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '"The path to success leads through design The quality of design is often considered one of the most important and yet one of the most underestimated success factors of a good product. In the history of the TOP DESIGN Awards, there have been companies that reached splendid successes on both domestic and international markets shortly after or at the time of being given the award. 3DKreator seems to be following the same path".'
-datePublished: '2016-04-25T13:39:56.930Z'
-dateModified: '2016-04-25T13:39:48.840Z'
+datePublished: '2016-04-25T13:44:28.003Z'
+dateModified: '2016-04-25T13:41:56.209Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-25-the-path-to-success-leads-through-design-the-quality-of-des.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-25-the-path-to-success-leads-through-design-the-quality-of-des.md
-published: true
 starred: false
 url: the-path-to-success-leads-through-design-the-quality-of-des/index.html
 _type: Article
