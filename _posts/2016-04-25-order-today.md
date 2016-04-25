@@ -1,14 +1,16 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: ORDER TODAY
-datePublished: '2016-04-25T17:52:51.204Z'
-dateModified: '2016-04-25T17:43:42.557Z'
+datePublished: '2016-04-25T18:22:42.455Z'
+dateModified: '2016-04-25T17:55:46.853Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-25-order-today.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-order-today.md
-published: true
+url: order-early/index.html
 _type: Blurb
 
 ---
