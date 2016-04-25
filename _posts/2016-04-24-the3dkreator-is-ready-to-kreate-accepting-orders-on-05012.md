@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'The 3DKreator is ready to Kreate! Accepting Orders on 05/01/2016'
-datePublished: '2016-04-24T15:40:42.392Z'
-dateModified: '2016-04-24T15:24:38.855Z'
+datePublished: '2016-04-25T14:11:27.111Z'
+dateModified: '2016-04-25T14:11:11.461Z'
 title: ''
 author:
   - name: ''
@@ -19,9 +20,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
-url: the3dkreator-is-ready-to-kreate-accepting-orders-on-05012/index.html
-_type: Article
+starred: true
+_type: Blurb
 
 ---
 The 3DKreator is ready to Kreate! Accepting Orders on 05/01/2016
