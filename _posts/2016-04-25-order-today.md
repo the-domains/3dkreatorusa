@@ -1,12 +1,12 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
 inLanguage: null
 keywords: []
 description: ORDER TODAY
-datePublished: '2016-04-25T17:39:06.561Z'
-dateModified: '2016-04-25T17:38:59.425Z'
+datePublished: '2016-04-25T17:52:51.204Z'
+dateModified: '2016-04-25T17:43:42.557Z'
 title: ''
 author: []
 authors: []
@@ -18,8 +18,7 @@ publisher:
 starred: false
 sourcePath: _posts/2016-04-25-order-today.md
 published: true
-url: order-today/index.html
-_type: Article
+_type: Blurb
 
 ---
 ORDER TODAY
