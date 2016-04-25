@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: ''
 inLanguage: null
 keywords: []
-description: 'The 3DKreator is ready to Kreate! Accepting Orders on 05/01/2016'
-datePublished: '2016-04-25T14:41:43.402Z'
-dateModified: '2016-04-25T14:41:35.606Z'
+description: Now ready for your Kreations. Accepting Orders on 05/01/2016
+datePublished: '2016-04-25T14:47:18.684Z'
+dateModified: '2016-04-25T14:45:14.746Z'
 title: ''
 author:
   - name: ''
@@ -24,5 +24,5 @@ starred: false
 _type: Blurb
 
 ---
-The 3DKreator is ready to Kreate! Accepting Orders on 05/01/2016
+Now ready for your Kreations. Accepting Orders on 05/01/2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2381dd04-dff1-44f8-b7d9-c8a569121c23.jpg)
