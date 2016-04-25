@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Kreate Material Motion with multiple matertials!'
-datePublished: '2016-04-24T15:37:43.713Z'
-dateModified: '2016-04-24T15:37:24.119Z'
+datePublished: '2016-04-25T13:42:46.318Z'
+dateModified: '2016-04-25T13:42:33.201Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-kreate-material-motion-with-multiple-matertials.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-04-24-kreate-material-motion-with-multiple-matertials.md
-published: true
+starred: true
 url: kreate-material-motion-with-multiple-matertials/index.html
 _type: Article
 
