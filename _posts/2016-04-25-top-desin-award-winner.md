@@ -1,16 +1,19 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
-description: 'Top Desin Award Winner!'
-datePublished: '2016-04-25T16:45:40.433Z'
-dateModified: '2016-04-25T16:45:16.256Z'
+description: 'Top Design Award Winner!'
+datePublished: '2016-04-25T17:18:59.044Z'
+dateModified: '2016-04-25T16:58:24.210Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-25-top-desin-award-winner.md
+published: true
 authors: []
 publisher:
   name: null
@@ -18,11 +21,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-top-desin-award-winner.md
-published: true
-url: top-desin-award-winner/index.html
-_type: Article
+_type: Blurb
 
 ---
-Top Desin Award Winner!
+Top Design Award Winner!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3dce098363e61af094281d9bba2e7e9dc4d4b6d4.png)
