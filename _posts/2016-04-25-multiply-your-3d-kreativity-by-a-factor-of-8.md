@@ -1,14 +1,17 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Multiply your 3D Kreativity by a factor of 8!'
-datePublished: '2016-04-25T14:09:29.910Z'
-dateModified: '2016-04-25T14:09:19.444Z'
+datePublished: '2016-04-25T14:20:24.328Z'
+dateModified: '2016-04-25T14:11:59.523Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-25-multiply-your-3d-kreativity-by-a-factor-of-8.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,10 +19,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-multiply-your-3d-kreativity-by-a-factor-of-8.md
-published: true
-url: multiply-your-3d-kreativity-by-a-factor-of-8/index.html
-_type: Article
+_type: Blurb
 
 ---
 Multiply your 3D Kreativity by a factor of 8!
