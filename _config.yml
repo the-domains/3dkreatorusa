@@ -1,29 +1,41 @@
-name: 3DKreatorUSA
-favicon: null
-layout_spectrum: 0.3707
-typography_spectrum: 0.4992
-title: 3DKreatorUSA
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.3707
+title: 3DKreatorUSA
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.6875
+  brandStrength: 0.875
+  rhythmicContrast: 0.5
   brandColors:
     - '#ffffff'
     - '#141318'
     - '#017dc5'
     - '#797880'
     - '#a8b7d6'
-  brandStrength: 0.875
   lightness: 0.6875
-  saturation: 0.6875
-  rhythmicContrast: 0.5
 purpose: []
+favicon: null
+name: 3DKreatorUSA
+typography_spectrum: 0.4992
