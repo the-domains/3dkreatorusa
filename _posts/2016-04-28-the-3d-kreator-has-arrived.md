@@ -5,10 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The 3D Kreator has arrived!'
-datePublished: '2016-04-28T13:48:03.779Z'
-dateModified: '2016-04-28T13:48:00.286Z'
+datePublished: '2016-04-28T23:13:09.400Z'
+dateModified: '2016-04-28T13:54:03.600Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-04-28-the-3d-kreator-has-arrived.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-the-3d-kreator-has-arrived.md
-published: true
 url: the-3d-kreator-has-arrived/index.html
 _type: Article
 
