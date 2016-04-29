@@ -4,21 +4,21 @@
         <description><![CDATA[3DKreatorUSA]]></description>
         <link>https://thegrid.ai/3dkreatorusa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 16:27:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 16:30:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dkreatorusa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8ab942b-639f-4b8d-8dfe-d19201ed5c28.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/3dkreatorusa/the-3d-kreator-has-arrived/index.html</link>
+            <guid isPermaLink="false">019b1ecd-192b-4873-bdd5-327f4bd00345</guid>
+            <pubDate>Fri, 29 Apr 2016 16:29:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04287479-ca63-4cee-9f44-a4ae757c69c4.jpg">]]></description>
             <link>https://thegrid.ai/3dkreatorusa/a6f99ede-619a-4703-bae6-5eac1452d84c/index.html</link>
             <guid isPermaLink="false">a6f99ede-619a-4703-bae6-5eac1452d84c</guid>
             <pubDate>Fri, 29 Apr 2016 16:26:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8ab942b-639f-4b8d-8dfe-d19201ed5c28.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/3dkreatorusa/the-3d-kreator-has-arrived/index.html</link>
-            <guid isPermaLink="false">019b1ecd-192b-4873-bdd5-327f4bd00345</guid>
-            <pubDate>Fri, 29 Apr 2016 12:13:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
