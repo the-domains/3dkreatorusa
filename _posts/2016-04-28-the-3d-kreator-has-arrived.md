@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'The 3D Kreator has arrived!'
-datePublished: '2016-04-29T12:10:42.323Z'
-dateModified: '2016-04-28T23:13:15.800Z'
+description: ''
+datePublished: '2016-04-29T12:13:08.476Z'
+dateModified: '2016-04-29T12:11:46.843Z'
 title: ''
 author:
   - name: ''
@@ -25,5 +25,3 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8ab942b-639f-4b8d-8dfe-d19201ed5c28.jpg)
-
-The 3D Kreator has arrived!
