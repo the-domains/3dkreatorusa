@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-29T12:13:08.476Z'
-dateModified: '2016-04-29T12:11:46.843Z'
+datePublished: '2016-04-29T16:29:44.438Z'
+dateModified: '2016-04-29T16:29:34.504Z'
 title: ''
 author:
   - name: ''
@@ -19,7 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: the-3d-kreator-has-arrived/index.html
 _type: Article
 
