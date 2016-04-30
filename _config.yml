@@ -36,6 +36,6 @@ color:
     - '#82ceea'
   brandStrength: 0.625
   lightness: 0.5
-  saturation: 0.625
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
