@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Unleash Your Kreativity
-datePublished: '2016-05-31T18:57:25.219Z'
-dateModified: '2016-05-31T18:47:43.739Z'
+datePublished: '2016-05-31T18:59:42.330Z'
+dateModified: '2016-05-31T18:59:15.827Z'
 title: 'Unleash Your Kreativity!'
 author:
   - name: ''
@@ -14,7 +14,7 @@ author:
 sourcePath: _posts/2016-05-01-unleash-your-kreativity.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: unleash-your-kreativity/index.html
 _type: Article
 
