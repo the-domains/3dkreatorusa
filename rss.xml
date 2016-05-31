@@ -4,7 +4,7 @@
         <description><![CDATA[3DKreatorUSA]]></description>
         <link>https://thegrid.ai/3dkreatorusa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 18:48:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 18:48:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dkreatorusa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/3dkreatorusa/unleash-your-kreativity/index.html</link>
             <guid isPermaLink="false">f22f1cb8-9dc7-4e15-b002-3128c3ada688</guid>
             <pubDate>Sun, 01 May 2016 16:02:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edac54c22dbb38b7b15471c2262703cebf9182e5.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/3dkreatorusa/a6f99ede-619a-4703-bae6-5eac1452d84c/index.html</link>
-            <guid isPermaLink="false">a6f99ede-619a-4703-bae6-5eac1452d84c</guid>
-            <pubDate>Sat, 30 Apr 2016 15:42:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
